@@ -1,1 +1,1 @@
-<a class="scroll-a" href="https://subnodal.com">Cool new thing called Subnodal released!</a>&nbsp;Insert news story here!&nbsp;Insert news story here!&nbsp;Insert news story here!&nbsp;Insert news story here!&nbsp;Insert news story here!&nbsp;Insert news story here!&nbsp;Insert news story here!&nbsp;Insert news story here!&nbsp;Insert news story here!&nbsp;Insert news story here!&nbsp;Insert news story here!&nbsp;Insert news story here!&nbsp;Insert news story here!&nbsp;Insert news story here!&nbsp;Insert news story here!
+[This thing's called Subnodal](https://subnodal.com)
