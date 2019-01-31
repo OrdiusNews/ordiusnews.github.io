@@ -25,6 +25,9 @@ header {
 }
 
 marquee {
-    padding-top: 90px;
     color: white;
+}
+
+.marquee {
+    padding-top: 90px;
 }
