@@ -1,1 +1,1 @@
-<a href="subnodal.com">This site is called Subnodal. Come check it out!</a>
+<a href="subnodal.com" class="scrollLink">This site is called Subnodal. Come check it out!</a>

@@ -31,3 +31,8 @@ marquee {
 .marquee {
     padding-top: 85px;
 }
+
+.scrollLink {
+    text-decoration: none;
+    color: white;
+}
