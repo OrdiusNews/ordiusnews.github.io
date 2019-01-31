@@ -23,3 +23,8 @@ header {
 .headerLogo {
     height: 50px;
 }
+
+marquee {
+    padding-top: 50px;
+    color: white;
+}
