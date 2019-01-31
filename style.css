@@ -1,0 +1,23 @@
+* {
+    font-family: 'Abel', sans-serif;
+}
+
+.home {
+    background-color: black;
+}
+
+.scroll-a {
+    color: white;
+}
+
+header {
+    height: 50px;
+    background-color: white;
+    margin: 0px 0px 0px 0px;
+    margin: 0;
+    padding: 0;
+}
+
+.headerLogo {
+    height: 50px;
+}
