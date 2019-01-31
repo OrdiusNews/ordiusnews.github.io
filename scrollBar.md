@@ -1,1 +1,1 @@
-[This thing's called Subnodal](https://subnodal.com)
+<a href="subnodal.com">This site is called Subnodal. Come check it out!</a>
