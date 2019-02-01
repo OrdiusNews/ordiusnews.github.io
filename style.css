@@ -18,15 +18,21 @@ header {
     padding: 10px;
     z-index: 1;
     background-color: white;
+    text-align: left;
 }
 
 .headerLogo {
     height: 50px;
 }
 
-marquee {
+.marqueeWhite {
     color: white;
     text-decoration-color: white;
+}
+
+.marqueeBlack {
+    color: black;
+    text-decoration-color: black;
 }
 
 .marquee {
@@ -34,6 +40,30 @@ marquee {
 }
 
 .scrollLink {
-    text-decoration: none;
+    color: white;
+}
+
+.pageNotFound {
+    background-color: black;
+    text-align: center;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    left: 0;
+    width: calc(100% - 20px);
+    padding: 10px;
+    z-index: 1;
+    text-align: left;
+}
+
+.blackText {
+    color: black;
+}
+
+.whiteText {
     color: white;
 }
