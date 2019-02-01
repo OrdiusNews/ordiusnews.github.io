@@ -69,5 +69,6 @@ footer {
 }
 
 .article {
-    color: black;
+    background-color: black;
+    color: white;
 }
