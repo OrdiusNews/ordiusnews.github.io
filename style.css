@@ -19,6 +19,7 @@ header {
     z-index: 1;
     background-color: white;
     text-align: left;
+    color: black;
 }
 
 .headerLogo {
@@ -58,6 +59,7 @@ footer {
     padding: 10px;
     z-index: 1;
     text-align: left;
+    color: black;
 }
 
 .blackText {
