@@ -1,3 +1,8 @@
+:root {
+    --primaryColour: #f1c232ff;
+    --trendingColour: #2600ff;
+}
+
 * {
     font-family: "Abel", sans-serif;
 }
@@ -36,8 +41,17 @@ header {
     text-decoration-color: black;
 }
 
-.marquee {
-    padding-top: 85px;
+.marqueeHome {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: calc(100% - 16px);
+    padding: 10px;
+    z-index: 1;
+    background-color: white;
+    text-align: left;
+    color: black;
+    padding-top: 50px;
 }
 
 .scrollLink {
@@ -73,4 +87,20 @@ footer {
 .article {
     background-color: black;
     color: white;
+}
+
+.headlines {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: calc(100% - 16px);
+    padding: 10px;
+    z-index: 1;
+    background-color: #ff0400;
+    text-align: left;
+    color: white;
+}
+
+.marqueeBlackBkg {
+    background-color: #ff0400;
 }
